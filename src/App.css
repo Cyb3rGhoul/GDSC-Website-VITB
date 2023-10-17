@@ -350,6 +350,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   width: 56%;
 }
 .project .nav.nav-pills {
+  cursor: pointer;
   width: 72%;
   margin: 0 auto;
   border-radius: 50px;
@@ -484,7 +485,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   background: rgb(255, 255, 255);
   border: 1px solid rgb(0, 0, 0);
   border-radius: 20px;
-  color: #fff;
+  color: #000000;
   margin: 0 0 8px 0;
   padding: 18px 26px;
   font-weight: 500;
@@ -506,7 +507,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .contact form input:focus::placeholder,
 .contact form textarea:focus::placeholder {
-  color: #fff;
+  color: #000000;
   opacity: 0.8;
 }
 .contact form button {
