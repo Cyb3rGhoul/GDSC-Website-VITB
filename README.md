@@ -2,7 +2,7 @@
 
 ## React-based Landing Page for GDSC VIT Bhopal
 
-![GDSC VIT Bhopal Landing Page](https://drive.google.com/file/d/1lxK6CFluSxERu1fjpYB7Knjo-J4miJjA/view?usp=sharing)
+![GDSC VIT Bhopal Landing Page](https://github.com/Cyb3rGhoul/GDSC-Website-VITB/blob/main/src/assets/img/Untitled.png)
 
 ### Live Website
 
